@@ -1,5 +1,5 @@
 # RanNum - Random Number
-## Programa para seleção de números aleatórios.  
+## Programa para seleção de números aleatórios. (This program generates the desired amount of random numbers from a predetermined interval)
 
 Esse programa seleciona de forma aleatória a quantidade de números desejada, dentro de um intervalo estipulado:    
 
